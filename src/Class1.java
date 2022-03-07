@@ -5,5 +5,7 @@ public class Class1 {
         System.out.println("Text for 2 commit");
         System.out.println("Text for 2 commit");
 
+        System.out.println("new text");
+
     }
 }
